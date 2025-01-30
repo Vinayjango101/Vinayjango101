@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Vinay Jangam
+- 👀 I’m interested in CyberSecurity | Network Security | Web Security | Reverse Engineering | Game Hacking 
+- 🌱 I’m currently learning - CyberSecurity's  Various Domains On tryhackme | HackTheBox 
+- 💞️ I’m looking to collaborate on -  CyberSecurity | Network Security | Web Security | Reverse Engineering | Game Hacking 
+- 📫 How to reach me - jangamvinay814@gmail.com | vinayoffsec@gmail.com
+- - INSTAGRAM - https://instgram.com/vinayjangam12
+- 😄 Pronouns: - He/Him
+- 🌐 Website_URL - https://vinayjango1.wordpress.com
+- TryHackMe - https://tryhackme.com/r/p/VINAY.JANGAM
+- HackTheBox - @VinayJango#2028448
