@@ -5,6 +5,6 @@
 - 📫 How to reach me - jangamvinay814@gmail.com | vinayoffsec@gmail.com
 - - INSTAGRAM - https://instgram.com/vinayjangam12
 - 😄 Pronouns: - He/Him
-- 🌐 Website_URL - https://vinayjango1.wordpress.com
+- 🌐 Website_URL - https://vinayjango101.gitbook.io/vinayjango101
 - TryHackMe - https://tryhackme.com/r/p/VINAY.JANGAM
 - HackTheBox - @VinayJango#2028448
