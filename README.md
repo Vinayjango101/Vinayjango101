@@ -1,6 +1,7 @@
 # 👾 Vinay Jangam 
 Aspiring Cybersecurity Expert Aiming to Master Skills and Secure a Leading Role
 ---
+![Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVqeWMxczBsdHgwdWh5eGZoNXltcDA4eTd0NGNnbzR0czd4ejdrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif)
 
 ## About Me
 
@@ -10,10 +11,6 @@ Aspiring Cybersecurity Expert Aiming to Master Skills and Secure a Leading Role
 - Contact: jangamvinay814@gmail.com | vinayoffsec@gmail.com  
 
 ---
-
-## Terminal Vibes - Matrix Animation
-
-![Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVqeWMxczBsdHgwdWh5eGZoNXltcDA4eTd0NGNnbzR0czd4ejdrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif)
 
 ---
 
