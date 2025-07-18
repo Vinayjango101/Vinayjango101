@@ -1,4 +1,5 @@
-# 👾 Vinay Jangam - aspiring cybersecurity student
+# 👾 Vinay Jangam 
+Aspiring Cybersecurity Expert Aiming to Master Skills and Secure a Leading Role
 ---
 
 ## About Me
